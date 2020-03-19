@@ -1,0 +1,127 @@
+@media(max-width:575px){  					 /* XS part*/
+
+.carousel-caption{
+ 	
+    width: 350px;
+}
+.carousel-caption h1{  
+    font-size: 20px !important;
+}
+
+.btn-custom{  
+    padding: 8px 10px;
+    font-size: 14px;
+}
+.btn-custom1
+ {
+ 	margin-left: 60px;
+ }
+.text p{  
+    width: 400px;
+    font-size: 14px;
+}
+
+.text h3{
+    font-size: 20px;
+}
+.info-part a{
+    color: #FFDD99;
+    font-size: 14px;
+    padding-left: 140px;
+}
+.getin-touch{
+    margin: 0px;
+   
+}
+
+
+}
+
+@media (min-width:576px) and (max-width: 767px)  /* SM part  */
+{
+
+.carousel-caption{
+ 	
+    width: 650px;
+}
+.carousel-caption h1{  
+    font-size: 20px !important;
+}
+
+.btn-custom{  
+    padding: 8px 10px;
+    font-size: 14px;
+}
+.btn-custom1
+ {
+ 	margin-left: 150px;
+ }
+ .about-img img{
+ 	width: 100px;
+ 	height: 100px;
+ 	margin:10px  45px 0px 10px;
+ }
+.text p{  
+    width: 300px;
+    font-size: 16px;
+   
+}
+.text h3{
+    font-size: 20px;
+    margin:0px  5px 0px 80px;
+     
+}
+.info-part a{
+  
+    font-size: 14px;
+    margin-left: 80px;
+    padding-left: 0px;
+}
+.getin-touch{
+    margin: 0px;
+   
+}
+
+}
+@media(min-width: 768px) and (max-width: 991px)  
+{
+.carousel-caption{
+ 	
+    width: 700px;
+}
+.carousel-caption h1{  
+    font-size: 30px ;
+}
+
+.btn-custom{  
+    padding: 8px 10px;
+    font-size: 14px;
+}
+.btn-custom1
+ {
+ 	margin-left: 240px;
+ }
+
+.about-img img{
+ 	width: 100px;
+ 	height: 100px;
+ 	margin:10px  45px 0px 10px;
+ }
+.text p{  
+    width: 360px;
+    font-size: 16px;
+   
+}
+.text h3{
+    font-size: 20px;
+    margin:0px  5px 0px 105px;
+     
+}
+.info-part a{
+    font-size: 16px;
+    padding:  0px 0px 0px 50px;
+}
+
+
+
+}
